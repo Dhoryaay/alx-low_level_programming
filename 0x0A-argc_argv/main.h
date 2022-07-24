@@ -5,5 +5,6 @@
 
 int _putchar(char c);
 unsigned int coin_count(unsigned int count, int num);
+int _atoi(char *s);
 
 #endif /* MAIN_H */
